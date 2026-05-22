@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salut je suis Erza
+Etudiante en BUT Informatique – IUT Robert Schuman Illkirch
 
-<!--
-**3RZ4-L/3RZ4-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+En ce moment j'apprends:
+- Programmation en Java, C, C#
+- Développement web : HTML / CSS / JavaScript
+---
+Derniers projets:
+- Stargate Mission Manager – Application de gestion des missions (création de missions, suivi budget/équipage, statistiques, édition PDF) développée en C# avec base SQLite.
+- Inscryption (Card Game) – Imitation du jeu Inscryption : jeu de cartes au tour par tour avec pioche, sacrifices, attaques, score, plateau et adversaire automatisé, développé en Java.
+---
+**Discord : 3rz4__82873**
